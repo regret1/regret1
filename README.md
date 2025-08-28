@@ -29,7 +29,7 @@
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Gabia Cloud-0076D5?style=for-the-badge&logo=gabia&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gabia Cloud-0076D5?style=for-the-badge&logo=googlecloud&logoColor=white"> 
     </div>
   <br>
     <!-- AI -->
